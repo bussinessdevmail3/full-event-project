@@ -1,0 +1,6 @@
+
+{
+  "CFBundleDisplayName": "EventPlace",
+  "NSCameraUsageDescription": "אפליקציה זו זקוקה לגישה למצלמה כדי לצלם תמונות פרופיל.",
+  "NSPhotoLibraryUsageDescription": "אפליקציה זו זקוקה לגישה לגלריית התמונות כדי לבחור תמונות פרופיל."
+}

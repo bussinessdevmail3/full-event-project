@@ -1,0 +1,5 @@
+{
+  "CFBundleDisplayName": "EventPlace",
+  "NSCameraUsageDescription": "يحتاج هذا التطبيق إلى الوصول إلى الكاميرا لالتقاط صور الملف الشخصي.",
+  "NSPhotoLibraryUsageDescription": "يحتاج هذا التطبيق إلى الوصول إلى مكتبة الصور لاختيار صور الملف الشخصي."
+}
