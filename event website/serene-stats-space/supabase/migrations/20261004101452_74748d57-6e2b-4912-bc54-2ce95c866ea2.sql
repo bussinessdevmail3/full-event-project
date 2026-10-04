@@ -1,0 +1,2 @@
+revoke execute on function public.handle_new_user(), public.guard_supplier_status(), public.grant_supplier_role() from public, anon, authenticated;
+revoke execute on function public.has_role(uuid, public.app_role), public.owns_supplier(uuid) from public, anon;

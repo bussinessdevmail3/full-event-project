@@ -1,0 +1,1 @@
+revoke execute on function public.has_role(uuid, public.app_role), public.owns_supplier(uuid), public.owns_venue(uuid), public.owns_artist(uuid), public.is_my_customer(uuid), public.event_visible_to_supplier(uuid) from anon, public;

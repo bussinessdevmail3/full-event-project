@@ -1,0 +1,1 @@
+revoke execute on function public.guard_event_insert() from public, anon, authenticated;
